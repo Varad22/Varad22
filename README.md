@@ -1,4 +1,4 @@
-### 👋 Hey there! I'm Varad Sawant, a tech enthusiast with a knack for solving real-world problems through code. Currently on my Master's journey at North Carolina State University, I'm fueled by a passion for innovation and a drive to make a meaningful impact in the world of technology. From battling shoplifting with machine learning to crafting intuitive web solutions, I thrive on challenges that push boundaries and drive positive change. Let's connect and build something amazing together! 🚀
+### Hey there👋! I'm Varad Sawant, a tech enthusiast with a knack for solving real-world problems through code. Currently on my Master's journey at North Carolina State University, I'm fueled by a passion for innovation and a drive to make a meaningful impact in the world of technology. From battling shoplifting with machine learning to crafting intuitive web solutions, I thrive on challenges that push boundaries and drive positive change. Let's connect and build something amazing together! 🚀
 
 
 ---
